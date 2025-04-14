@@ -11,11 +11,11 @@ B3: mở cmd/powershell, run code:
 ```
 pip install -r requirements.txt
 ```
-lên gg search proton vpn xog r tải bản free về, đăng nhập xog r ấn quick connect đến một nước bất kì, có premium thì chọn server Japan là tốt nhất, bật xog thì trong cmd/powershell gõ:
+b4: lên gg search proton vpn xog r tải bản free về, đăng nhập xog r ấn quick connect đến một nước bất kì, có premium thì chọn server Japan là tốt nhất, bật xog thì trong cmd/powershell gõ:
 ```
 cd [vị trí folder chứa file]
 ```
-sau đó gõ 
+B5: sau đó gõ 
 ```
 python ug.py
 ```
