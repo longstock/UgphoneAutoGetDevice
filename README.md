@@ -1,7 +1,7 @@
 # UgphoneAutoGetDevice
 Tool python tự động lấy ugphone trial 4h, no key, chưa code phần proxy nên còn phải bật vpn mới dùng được code, sẽ update sau
 code open source nên thoải mái check, ko có virus đâu
-# 1. Hướng dẫn sử dụng cho người ko bt dùng:
+# 1. Hướng dẫn sử dụng cho người ko biết dùng:
 
 B1: Tải Python phiên bản mới nhất ở trang https://www.python.org/downloads/
 
