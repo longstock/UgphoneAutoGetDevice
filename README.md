@@ -1,5 +1,5 @@
 # UgphoneAutoGetDevice
-Tool python tự động lấy ugphone trial 4h, no key, sẽ update sau
+Tool python tự động lấy ugphone trial 4h, no key, sẽ update phiên bản để tự chọn nước mình muốn sau
 - Phiên bản không có proxy, cần bật vpn để sử dụng là ugv1.py
 - Phiên bản đã có proxy tích hợp và không cần bật vpn là ugv2.py (khuyến khích sử dụng)
 code open source nên thoải mái check, ko có virus đâu
